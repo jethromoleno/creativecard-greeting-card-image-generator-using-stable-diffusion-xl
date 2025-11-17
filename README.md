@@ -1,2 +1,55 @@
-# creativecard-greeting-card-image-generator-using-stable-diffusion-xl
-CreativeCard is an AI-powered greeting card generator built with Stable Diffusion XL (SDXL). Users can generate high-quality greeting card images with custom prompts, add short messages, and export the final card easily.  This project demonstrates real-world Generative AI, UI design, and image processing skills.
+🎨 CreativeCard — Greeting Card Image Generator (Stable Diffusion XL)
+
+CreativeCard is an AI-powered greeting card generator built with Stable Diffusion XL (SDXL).
+Users can generate high-quality greeting card images with custom prompts, add short messages, and export the final card easily.
+
+This project demonstrates real-world Generative AI, UI design, and image processing skills.
+
+✨ Features
+
+🧠 Powered by Stable Diffusion XL
+🎨 Generates greeting card styles (birthday, wedding, anniversary, Christmas, etc.)
+📄 Add custom text on the generated card
+🖼️ Adjustable resolution (up to 1429 × 2000 px — user preference)
+⚙️ Loading bar inside the generation frame (UX improvement)
+🚫 Disable “Generate” button while image is generating
+💾 Save image via button (consistent UI size)
+🖥️ CustomTkinter GUI for modern UI feel
+
+🧠 Tech Stack
+
+- Stable Diffusion XL (stabilityai/stable-diffusion-2-1-base or SDXL 1.0)
+- Python (3.10 recommended)
+- diffusers
+- CustomTkinter
+- PIL (Pillow)
+- Torch
+- NumPy
+
+⚙️ How It Works
+1. User enters a greeting card prompt
+
+Example:
+“A warm birthday greeting card with soft pastel colors and cute characters.”
+
+2. SDXL pipeline processes the text input
+
+Tokenizes the prompt
+Runs through the UNet + VAE
+Upscales automatically to your preferred 1429 × 2000 resolution
+
+3. Generated image appears in the UI
+
+Progress bar updates inside frame
+"Generate" button is disabled while generating
+
+4. User can save the generated card
+
+Saved as a PNG or JPG.
+
+👨‍💻 Author
+
+- Jethro P. Moleno
+- Computer Engineering – Mapúa University
+- Email: jethromoleno@gmail.com
+- LinkedIn: www.linkedin.com/in/jethromoleno

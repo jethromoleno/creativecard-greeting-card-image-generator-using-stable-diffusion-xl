@@ -23,8 +23,13 @@ This project demonstrates real-world Generative AI, UI design, and image process
 - diffusers
 - CustomTkinter
 - PIL (Pillow)
-- Torch
+- pyTorch
 - NumPy
+- OS
+- Fork
+- Transformers
+- ctypes
+- threading
 
 ⚙️ How It Works
 1. User enters a greeting card prompt

@@ -5,6 +5,11 @@ Users can generate high-quality greeting card images with custom prompts, add sh
 
 This project demonstrates real-world Generative AI, UI design, and image processing skills.
 
+Documentation: [![Documentation](https://img.shields.io/badge/documentation-link-brightgreen?style=flat)](https://github.com/jethromoleno/creativecard-greeting-card-image-generator-using-stable-diffusion-xl/blob/main/docs/CreativeCard_Documentation.pdf)
+
+User Manual: [![Documentation](https://img.shields.io/badge/documentation-link-brightgreen?style=flat)](https://github.com/jethromoleno/creativecard-greeting-card-image-generator-using-stable-diffusion-xl/blob/main/docs/User%20Manual.pdf)
+
+
 <h2>✨ Features</h2>
 
 🧠 Powered by Stable Diffusion XL

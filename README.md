@@ -1,11 +1,11 @@
-🎨 CreativeCard — Greeting Card Image Generator (Stable Diffusion XL)
+<h1>🎨 CreativeCard — Greeting Card Image Generator (Stable Diffusion XL)</h1>
 
 CreativeCard is an AI-powered greeting card generator built with Stable Diffusion XL (SDXL).
 Users can generate high-quality greeting card images with custom prompts, add short messages, and export the final card easily.
 
 This project demonstrates real-world Generative AI, UI design, and image processing skills.
 
-✨ Features
+<h2>✨ Features</h2>
 
 🧠 Powered by Stable Diffusion XL
 🎨 Generates greeting card styles (birthday, wedding, anniversary, Christmas, etc.)
@@ -16,7 +16,7 @@ This project demonstrates real-world Generative AI, UI design, and image process
 💾 Save image via button (consistent UI size)
 🖥️ CustomTkinter GUI for modern UI feel
 
-🧠 Tech Stack
+<h2>🧠 Tech Stack</h2>
 
 - Stable Diffusion XL (stabilityai/stable-diffusion-2-1-base or SDXL 1.0)
 - Python (3.10 recommended)
@@ -31,7 +31,7 @@ This project demonstrates real-world Generative AI, UI design, and image process
 - ctypes
 - threading
 
-⚙️ How It Works
+<h2>⚙️ How It Works</h2>
 1. User enters a greeting card prompt
 
 Example:
@@ -52,7 +52,7 @@ Progress bar updates inside frame
 
 Saved as a PNG or JPG.
 
-👨‍💻 Author
+<h2>👨‍💻 Author</h2>
 
 - Jethro P. Moleno
 - Computer Engineering – Mapúa University

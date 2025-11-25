@@ -13,12 +13,19 @@ User Manual: [![Documentation](https://img.shields.io/badge/documentation-link-b
 <h2>✨ Features</h2>
 
 🧠 Powered by Stable Diffusion XL
+
 🎨 Generates greeting card styles (birthday, wedding, anniversary, Christmas, etc.)
+
 📄 Add custom text on the generated card
+
 🖼️ Adjustable resolution (up to 1429 × 2000 px — user preference)
+
 ⚙️ Loading bar inside the generation frame (UX improvement)
+
 🚫 Disable “Generate” button while image is generating
+
 💾 Save image via button (consistent UI size)
+
 🖥️ CustomTkinter GUI for modern UI feel
 
 <h2>🧠 Tech Stack</h2>

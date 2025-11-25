@@ -5,7 +5,7 @@ Users can generate high-quality greeting card images with custom prompts, add sh
 
 This project demonstrates real-world Generative AI, UI design, and image processing skills.
 
-Youtube Video Demo Link:  [![YouTube Video Demo](https://img.shields.io/badge/YouTube-Video-red?style=flat&logo=youtube)]((https://youtu.be/LSXt0PSaVdM))
+Youtube Video Demo Link:  [![YouTube Video Demo](https://img.shields.io/badge/YouTube-Video-red?style=flat&logo=youtube)]([(https://youtu.be/LSXt0PSaVdM)])
 
 Documentation: [![Documentation](https://img.shields.io/badge/documentation-link-brightgreen?style=flat)](https://github.com/jethromoleno/creativecard-greeting-card-image-generator-using-stable-diffusion-xl/blob/main/docs/CreativeCard_Documentation.pdf)
 
